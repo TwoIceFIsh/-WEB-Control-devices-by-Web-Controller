@@ -18,7 +18,7 @@
 				<div class="login-panel panel panel-default">
 					<div class="panel-heading">
 						<h3 class="panel-title">로그인 하기</h3>
-					</div>
+					</div>  
 					<div class="panel-body">
 						<form role="form">
 							<fieldset>
