@@ -12,7 +12,7 @@ User can send command by voices
 User Can See protuct's real time status praph    
 User Can See protuct's real time status panels    
  
-Live demo's on http://smartgreenhouse.cf  
+Live demo's on http://ec2-52-78-146-74.ap-northeast-2.compute.amazonaws.com/pepepe/m_index.jsp 
 admin id/pw : asdf/asdf
 
 # next featrues
